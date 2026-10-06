@@ -1,0 +1,8 @@
+// إعداد Cloudflare Workers: الموقع صفحات ثابتة تُقدَّم من جذر المستودع
+{
+  "name": "islamic-library",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./"
+  }
+}
