@@ -1,8 +1,8 @@
-// إعداد Cloudflare Workers: الموقع صفحات ثابتة تُقدَّم من جذر المستودع
+// إعداد Cloudflare Workers: ملفات الموقع الثابتة في مجلد public
 {
   "name": "islamic-library",
   "compatibility_date": "2026-10-01",
   "assets": {
-    "directory": "./"
+    "directory": "./public"
   }
 }
